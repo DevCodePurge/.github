@@ -104,4 +104,7 @@ DevCodePurge is not just a file cleanup tool; it’s a robust solution for many 
 - **💾 Save valuable disk space**: Quickly identify and remove unnecessary files.
 - **🚀 Optimize your workflow**: Focus on development without worrying about clutter.
 
+## Community & Support
+💬 It’s a small group for now, but every piece of feedback helps! [Join Here](https://discord.gg/5UnjWNUMyu)
+
 Whether you’re an independent developer or part of a team, DevCodePurge ensures your environment stays clean, efficient, and ready for your next project.
